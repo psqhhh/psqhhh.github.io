@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://psqhhh.github.io</id>
-    <title>Gridea</title>
-    <updated>2020-12-01T12:18:16.436Z</updated>
+    <title>读透一本书，精于一件事</title>
+    <updated>2020-12-01T12:23:14.662Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://psqhhh.github.io"/>
     <link rel="self" href="https://psqhhh.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
     <logo>https://psqhhh.github.io/images/avatar.png</logo>
     <icon>https://psqhhh.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Gridea</rights>
+    <rights>All rights reserved 2020, 读透一本书，精于一件事</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://psqhhh.github.io/post/hello-gridea/</id>
